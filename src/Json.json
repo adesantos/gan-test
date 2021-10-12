@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "name": "Rise of Maya",
+        "image": "https://images.prismic.io/gameaccount/ea316038-5faf-45ab-9758-73c4656afe2e_gameType.3734.jpg?auto=compress,format",
+        "favorite": true,
+        "new": false
+    },
+    {
+        "id": 2,
+        "name": "Pekin Fantasy",
+        "image": "https://images.prismic.io/gameaccount/a5339faa-a44f-43f5-b30d-2c8f78f01947_gameType.2690.jpg?auto=compress,format",
+        "favorite": false,
+        "new": false
+    },
+    {
+        "id": 3,
+        "name": "Triple X Threat",
+        "image": "https://images.prismic.io/gameaccount/1e8747a3-4058-43a1-a214-ea3f792f0b97_gameType.2811.jpg?auto=compress,format",
+        "favorite": false,
+        "new": true
+    },
+    {
+        "id": 4,
+        "name": "Zoltar Speaks",
+        "image": "https://images.prismic.io/snoqualmie/dfb65f05-f643-4d7e-aea0-2057b1ead0e6_gameType.3577.jpg?auto=compress,format",
+        "favorite": false,
+        "new": false
+    },
+    {
+        "id": 5,
+        "name": "UltraViolet",
+        "image": "https://images.prismic.io/gameaccount/954f32df-343d-4864-a040-53b03e4762f4_gameType.2823.jpg?auto=compress,format",
+        "favorite": false,
+        "new": false
+    },
+    {
+        "id": 6,
+        "name": "Fiesta Senorita",
+        "image": "https://images.prismic.io/gameaccount/c6e009ae-2fd9-4ab9-aece-e6099915c9e4_gameType.1434.jpg?auto=compress,format",
+        "favorite": false,
+        "new": false
+    },
+    {
+        "id": 7,
+        "name": "Beticus Maximus",
+        "image": "https://images.prismic.io/snoqualmie/67696b73-46b6-4b15-9a0b-3f36671cfe40_gameType.2265.jpg?auto=compress,format",
+        "favorite": true,
+        "new": true
+    },
+    {
+        "id": 8,
+        "name": "French Roulette",
+        "image": "https://images.prismic.io/snoqualmie/36fde517-5488-4095-9fe7-d683e183182a_gameType.1830.jpg?auto=compress,format",
+        "favorite": false,
+        "new": false
+    },
+    {
+        "id": 9,
+        "name": "Casino Hold'em Poker",
+        "image": "https://images.prismic.io/snoqualmie/d9996a4f-5289-49d5-9fdd-e66be8b3c7f4_gameType.1834.jpg?auto=compress,format",
+        "favorite": true,
+        "new": false
+    },
+    {
+        "id": 10,
+        "name": "Roulette Advanced",
+        "image": "https://images.prismic.io/snoqualmie/65c2328a-15cb-48da-a891-1bb574e618b2_gameType.1835.jpg?auto=compress,format",
+        "favorite": false,
+        "new": false
+    },
+    {
+        "id": 11,
+        "name": "Baccarat",
+        "image": "https://images.prismic.io/snoqualmie/a09f7d56-0772-4fb4-bec1-271328f852fc_gameType.2374.jpg?auto=compress,format",
+        "favorite": true,
+        "new": true
+    },
+    {
+        "id": 12,
+        "name": "Fox Trot",
+        "image": "https://images.prismic.io/snoqualmie/ea00b32e-bc9d-41ce-af7a-3b0926e7df8f_gameType.4199.jpg?auto=compress,format",
+        "favorite": false,
+        "new": false
+    },
+    {
+        "id": 13,
+        "name": "Arcane",
+        "image": "https://images.prismic.io/snoqualmie/9ae1a705-6886-4c2c-93b1-fc823c5e1169_Arcane_+Reel+Chaos+NET+%40316x316.jpg?auto=compress,format",
+        "favorite": false,
+        "new": false
+    },
+    {
+        "id": 14,
+        "name": "Coins of Egypt",
+        "image": "https://images.prismic.io/snoqualmie/0eef5158-2334-474b-8d61-2d9fa9828c6c_Coins+of+Egypt+NET+%40316x316.jpg?auto=compress,format",
+        "favorite": false,
+        "new": false
+    },
+    {
+        "id": 15,
+        "name": "Star Magic",
+        "image": "https://images.prismic.io/route66/MjdlMjA3MjMtNDAxNi00N2IzLWExYTEtYzEzZmYwYjkwMzcy_d94922d1-87ab-485c-8755-b2d13fd0eae0_gametype.2786.jpg?auto=compress,format&rect=0,0,316,316&w=316&h=316",
+        "favorite": true,
+        "new": false
+    },
+    {
+        "id": 16,
+        "name": "Bubblegum",
+        "image": "https://images.prismic.io/route66/YjRiZjI3N2ItYzAzNC00NTVkLWIzMjMtZTI5YzkxOTQ2ZTk2_637743f1-3f75-4cdf-bf94-17e988d3aebd_gametype.1467.jpg?auto=compress,format&rect=0,0,316,316&w=316&h=316",
+        "favorite": false,
+        "new": false
+    },
+    {
+        "id": 17,
+        "name": "Wealthy Monkey",
+        "image": "https://images.prismic.io/route66/48307b47-0f01-4ff1-938d-6519c1a58c3b_Wealth_Monkey_316x316.jpg?auto=compress,format",
+        "favorite": false,
+        "new": false
+    },
+    {
+        "id": 18,
+        "name": "Cobra Hearts",
+        "image": "https://images.prismic.io/route66/dd24e89a-7603-4d30-afbc-1c20c428603d_gameType.4928.jpg?auto=compress,format",
+        "favorite": true,
+        "new": false
+    },
+    {
+        "id": 19,
+        "name": "Wings of the Phoenix",
+        "image": "https://images.prismic.io/route66/00d579a0-1e88-4e8e-86b8-e3f54fd7e46d_Wings+of+the+Phoenix+KON+%40316x316.jpg?auto=compress,format",
+        "favorite": false,
+        "new": false
+    },
+    {
+        "id": 20,
+        "name": "Gipsy Fire",
+        "image": "https://images.prismic.io/route66/NTg0YjA4NzMtNjA0Zi00NDliLTliN2YtMzQ1NzBkNWUwN2Rm_14d15105-1223-4b30-8513-d03d5ec79b3b_gametype.152328229.jpg?auto=compress,format&rect=0,0,316,315&w=316&h=315",
+        "favorite": false,
+        "new": true
+    },
+    {
+        "id": 21,
+        "name": "Sparkling Roses",
+        "image": "https://images.prismic.io/agua/db12318c-5e9e-4b8e-94e1-968a66e19202_sparkling_roses_316x316.jpg?auto=compress,format",
+        "favorite": false,
+        "new": false
+    },
+    {
+        "id": 22,
+        "name": "Roman Tribune",
+        "image": "https://images.prismic.io/agua/96be59b1-f7a3-451e-ac91-95c31be071a5_Roman_Tribune_316x316.jpg?auto=compress,format",
+        "favorite": false,
+        "new": false
+    },
+    {
+        "id": 23,
+        "name": "Chili Chili Fire",
+        "image": "https://images.prismic.io/agua/255846b8-13ef-4cf7-bbe7-f3c7a47cb7f1_ChiliChiliFire_316x316.jpg?auto=compress,format",
+        "favorite": false,
+        "new": false
+    },
+    {
+        "id": 24,
+        "name": "Carnival in Rio",
+        "image": "https://images.prismic.io/gameaccount/ed0444d3-aca9-4d9f-a108-2150efaf2ce1_gameType.727.jpg?auto=compress,format",
+        "favorite": false,
+        "new": false
+    },
+    {
+        "id": 25,
+        "name": "Vegas",
+        "image": "https://images.prismic.io/route66/06c61268-fa6f-4b8e-a1fb-c92d44b83599_gameType.4253.jpg?auto=compress,format",
+        "favorite": false,
+        "new": false
+    },
+    {
+        "id": 26,
+        "name": "Rawhide",
+        "image": "https://images.prismic.io/agua/7a82d2d3-3c31-4938-a94b-63996b313f15_Rawhide_316x316.jpg?auto=compress,format",
+        "favorite": true,
+        "new": false
+    },
+    {
+        "id": 27,
+        "name": "Golden Wolves",
+        "image": "https://images.prismic.io/route66/2d54c74c-7510-4916-96fb-8bd47033e112_gameType.4751.jpg?auto=compress,format",
+        "favorite": false,
+        "new": true
+    },
+    {
+        "id": 28,
+        "name": "China Mistery",
+        "image": "https://images.prismic.io/route66/MGFhYTkwNjctOGZlMy00YTc5LTg0NTAtZjM3NGI1MjllZWU5_8075882c-9142-4fcb-8b8c-5b1103089e3a_gametype.1521.jpg?auto=compress,format&rect=0,0,316,316&w=316&h=316",
+        "favorite": false,
+        "new": false
+    },
+    {
+        "id": 29,
+        "name": "Hot Spot",
+        "image": "https://images.prismic.io/route66/MmNlOWViN2EtNDFlMC00OGFiLWI2OTktMGFkNzNkYjI4NGE5_0ae33c53-0c7c-4c65-965d-ec1a8f830317_gametype.3699.jpg?auto=compress,format&rect=0,0,316,316&w=316&h=316",
+        "favorite": false,
+        "new": false
+    },
+    {
+        "id": 30,
+        "name": "Celestial Sun Riches",
+        "image": "https://images.prismic.io/route66/4d3ab77d-d2ef-45c9-a639-035e3bf4d9e8_gameType.4202.jpg?auto=compress,format",
+        "favorite": true,
+        "new": true
+    }
+]

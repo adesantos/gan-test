@@ -1,0 +1,20 @@
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.img-margin-bottom{
+    margin-bottom: 24px;
+}
+.custom-row{
+    justify-content: center;
+}
+
+@media screen and (min-width: 768px) {
+    .custom-row > .col-md-7{
+        width: 51.333333% !important;/*55.333333% !important;*/
+    }
+    .custom-row > .col-md-5{
+        width: 38.50% !important;
+    }
+}
